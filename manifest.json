@@ -1,6 +1,6 @@
 {
-    "name" : "liantong",
-    "appid" : "__UNI__D633A15",
+    "name" : "联通优选",
+    "appid" : "__UNI__D633A14",
     "description" : "多平台快速开发的UI框架",
     "versionName" : "1.8.4",
     "versionCode" : "100",
@@ -134,6 +134,6 @@
                 "enable" : false
             }
         },
-        "title" : "uView UI"
+        "title" : "联通优选"
     }
 }
